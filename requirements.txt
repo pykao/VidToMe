@@ -10,3 +10,5 @@ tqdm
 pyav
 matplotlib
 accelerate
+mediapipe
+peft
